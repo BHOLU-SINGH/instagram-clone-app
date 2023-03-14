@@ -59,7 +59,7 @@ const video = document.querySelectorAll('.container video');
 
 for(let i = 0; i < video.length; i++){
     video[i].addEventListener("mouseenter", () => {
-        video[i].currentTime = 0;
+        video[i].currentTime = 0;   
         video[i].play();
         video[i].loop = true;
 
