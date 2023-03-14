@@ -4,37 +4,37 @@
 
 <h2>Project Screenshots</h2>
 <p>home section</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/1. home section.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/1. home section.png" />
 
 <p>home section with  image and photo</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/2. home section with  image and photo.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/2. home section with  image and photo.png" />
 
 <p>search section</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/3. search section.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/3. search section.png" />
 
 <p>reels section</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/4. reels section.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/4. reels section.png" />
 
 <p>reels section with like-div</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/5. reels section with like-div.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/5. reels section with like-div.png" />
 
 <p>reels section with comment-div</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/6. reels section with comment-div.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/6. reels section with comment-div.png" />
 
 <p>reels section with send-video-div</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/7. reels section with send-video-div.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/7. reels section with send-video-div.png" />
 
 <p>reels section with send-video-div</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/8. reels section with send-video-div.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/8. reels section with send-video-div.png" />
 
 <p>notification section</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/9. notification section.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/9. notification section.png" />
 
 <p>user account section</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/10. user account section.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/10. user account section.png" />
 
 <p>user account section with highlights</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/11. user account section with highlights.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/11. user account section with highlights.png" />
 
 <p>user account section with setting-div</p>
-<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/blob/master/12. user account section with setting-div.png" />
+<img src="https://github.com/BHOLU-SINGH/instagram-clone-app/screenshots/blob/master/12. user account section with setting-div.png" />
